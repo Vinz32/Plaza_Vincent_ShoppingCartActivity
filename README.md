@@ -6,6 +6,11 @@ Ai usage
 
 I used AI to help build the Product class design, the cart logic using parallel arrays, and the duplicate item detection I used AI to get a working starting point and to understand Some parts like handling duplicate cart entries and validating multiple inputs at once were tricky to figure out from scratch, so I asked AI to explain the logic before writing the code.
 
+What AI helped with for part 2:
+- *CartManager* - AI helped structure the cart menu (view, update, remove, clear) into its own dedicated class after I had the base cart logic working
+- *ReceiptPrinter* — AI helped format the receipt with the auto-incrementing receipt number and date/time output
+- *OrderHistory* — AI suggested and helped implement storing completed transactions in an array for later viewing
+
 Part 2 — Enhanced Features
 
 1. Cart Management Menu
